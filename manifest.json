@@ -1,0 +1,10 @@
+{
+  "id": "murr.craft.wikipedia-search",
+  "name": "Wikipedia Search",
+  "fileName": "wikipedia-search",
+  "author" : "Steven Murr",
+  "author-email" : "steve@murr.io",
+  "description" : "Search wikipedia for stuff",
+  "api": "1.0.0",
+  "main": "index.html"
+}
