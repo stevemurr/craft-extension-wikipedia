@@ -1,6 +1,12 @@
+# Craft Extension - Wikipedia Search
+Wikipedia search extension for [craft](https://www.craft.do).  [Craft X developer portal](https://developer.craft.do).
+
+## Overview
+This extension provides a search field that fetches results from the [MediaWiki API](https://www.mediawiki.org/wiki/API:Query).  Clicking a result will insert a url block at the cursor position.
+
 ## Building
 
-Simply run `npm install` and than `npm run build` to generate the .craftX file which can be installed.
-You can use `npm run dev` to test and debug in your local environment
+Install: `npm install`  
+Build: `npm run build`  
+Local Dev: `npm run dev`
 
-To learn more about Craft eXtensions visit the [Craft X developer portal](https://developer.craft.do).
