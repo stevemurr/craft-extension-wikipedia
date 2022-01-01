@@ -7,7 +7,8 @@
 }
 
 .inputGridItem {
-    @apply rounded-lg shadow mb-2 relative group bg-groupBackground dark:bg-groupBackground-dark px-3 py-2 w-full;
+    @apply rounded-lg shadow relative group bg-groupBackground dark:bg-groupBackground-dark px-3 py-2 mx-2 w-full;
+    width: 94%
 }
 
 .gridItem {

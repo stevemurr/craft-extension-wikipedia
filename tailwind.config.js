@@ -4,8 +4,7 @@ module.exports = {
     enabled: true,
     content: [
       './src/*.html',
-      './src/*.ts',
-      './src/*.tsx',
+      './src/**/*.tsx',
     ]
   },
   darkMode: 'media', // or 'media' or 'class'
