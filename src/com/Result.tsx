@@ -2,7 +2,7 @@ import * as React from "react"
 
 export const Result = (props: any) => {
 
-    return <div onClick={() => { props.props.onClick(props.props) }} className="gridItem">
+    return <div onClick={() => { props.props.onChange(props.props) }} className="gridItem">
         <h3 className="text-sm font-medium select-none">
             {props.props.title}
         </h3>
