@@ -1,11 +1,6 @@
 import { WikipediaSearchProvider } from "./WikipediaSearchProvider";
-import { GoogleSearchProvider } from "./GoogleSearchProvider";
+import { DuckDuckGoInstantAPIProvider } from "./DuckDuckGoInstantAPIProvider";
 import { SearchResult } from "./SearchResult";
 import { SearchProvider } from "./SearchProvider";
 
-export { WikipediaSearchProvider, GoogleSearchProvider, SearchResult, SearchProvider }
-
-export enum Provider {
-    WikipediaSearchProvider,
-    GoogleSearchProvider
-}
+export { WikipediaSearchProvider, DuckDuckGoInstantAPIProvider, SearchResult, SearchProvider }

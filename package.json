@@ -34,6 +34,7 @@
     "@babel/core": "^7.16.7",
     "@babel/preset-env": "^7.16.7",
     "@babel/preset-react": "^7.16.7",
+    "@headlessui/react": "^1.4.2",
     "babel-loader": "^8.2.3",
     "mini-css-extract-plugin": "^2.4.5",
     "postcss-loader": "^6.2.1",
